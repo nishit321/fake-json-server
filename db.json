@@ -1,5 +1,13 @@
 {
-  "dealer": {
-    "name": "Tesla"
+  "dealer": [
+    {
+    id: 1, name: "Tesla", amountOfCars: 2, totalBudget: 10, remainingBudget: 20
+  },
+  {
+    id: 2, name: "GM", amountOfCars: 2, totalBudget: 10, remainingBudget: 20
+  },
+  {
+    id: 3, name: "Ford", amountOfCars: 2, totalBudget: 10, remainingBudget: 20
   }
+  ]
 }
