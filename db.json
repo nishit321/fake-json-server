@@ -9,5 +9,16 @@
   {
     "id": 3, "name": "Ford", "amountOfCars": 2, "totalBudget": 10, "remainingBudget": 20, "owner": "Thiago Musk", "location" :"America"
   }
+  ],
+  "car": [
+    {
+    "id": 1, "dealerId": 1, "brand": 'Tesla', "color": 'Black', "model": 'A1', "price": 20
+    },
+    {
+      "id": 2, "dealerId": 2, "brand": 'GM', "color": 'Pink', "model": 'A1', "price": 20
+    },
+    {
+      "id": 3, "dealerId": 3, "brand": 'Ford', "color": 'Yellow', "model": 'A1', "price": 20
+    }
   ]
 }
